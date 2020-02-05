@@ -1,0 +1,1 @@
+document.Replace("#DATAEXTENSO#", DateTime.Now.ToString("dd 'de' MMMM 'de' yyyy"), true,true);
